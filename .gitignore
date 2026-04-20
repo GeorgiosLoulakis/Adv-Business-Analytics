@@ -1,0 +1,40 @@
+# ── Data & outputs ──────────────────────────────────────── ~GL~ ──
+data/
+outputs/
+mf_models/
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# ── Environments ──────────────────────────────────────────────
+.env
+.envrc
+.venv
+env/
+venv/
+
+# ── Jupyter ───────────────────────────────────────────────────
+.ipynb_checkpoints/
+profile_default/
+
+# ── Testing & coverage ────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ── Type checkers & linters ───────────────────────────────────
+.mypy_cache/
+.ruff_cache/
+
+# ── Editors & IDEs ────────────────────────────────────────────
+.vscode/
+.idea/
+
+# ── OS files ──────────────────────────────────────────────────
+.DS_Store
+desktop.ini
