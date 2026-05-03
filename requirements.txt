@@ -1,0 +1,28 @@
+# Core data
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+shap
+
+# Deep learning / NLP
+torch
+transformers
+
+# Reinforcement learning
+stable-baselines3
+gymnasium
+shimmy
+
+# Convex optimization
+cvxpy
+
+# Visualisation
+matplotlib
+plotly
+
+# Utilities
+scipy
+requests
+tqdm
